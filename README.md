@@ -3,7 +3,7 @@ Guides
 
 Guides for getting things done, programming well, and programming in style.
 
-* Product Management with [Trello](/product-management/trello)
+* Product Management with [Basecamp](/product-management/basecamp)
 * [Protocol](/protocol)
 * [Code Review](/code-review)
 * [Best Practices](/best-practices)
@@ -30,6 +30,8 @@ Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributo
 ![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
 
 Guides is maintained by [thoughtbot, inc](http://thoughtbot.com/community).
+
+This is a forked version maintained by [Ideal Project Group](http://idealprojectgroup.com).
 
 License
 -------

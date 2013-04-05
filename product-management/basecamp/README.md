@@ -1,24 +1,10 @@
-Product management process with Trello
+Product management process with Basecamp
 ======================================
 
-The product management process with [Trello](http://trello.com) spans multiple
-Trello boards:
+The product management process with [Basecamp](http://basecamp.com) spans multiple
+Basecamp todo lists.
 
-* Bugs
-* Product Design
-* Engineering & Refactoring
-* Current
-
-![Current](http://f.cl.ly/items/3H3i1M0Q1G1s2V3I433S/Screen%20Shot%202013-02-25%20at%209.08.22%20AM.png)
-
-Cards from Product Design, Bugs, Engineering boards are pulled into the Next Up
-list on the Current board as described in the "Weekly Product Meeting" section
-below.
-
-The Next Up list is the single prioritized list to which the product team
-refers in order to know what to work on next. It represents one week of work.
-
-Trello cards
+Basecamp projects
 ------------
 
 A card represents a single user story, bug fix, engineering task, or general
